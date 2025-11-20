@@ -11,7 +11,7 @@ html {
 
 .progress {
     position: fixed;
-    top: 12rem;
+    top: 5.7rem;
 
     left: 0;
     height: 6px;
@@ -1784,8 +1784,8 @@ div.lgx-single-registration.recommended {
     .navbar-nav {
         float: right;
         margin: 0;
-        margin-top: 1rem;
-        margin-right: 10rem;
+        margin-top: 0rem;
+        margin-right: 0rem;
     }
 }
 
@@ -3215,4 +3215,26 @@ lord-icon {
 
 .com-pat{
     margin-left: 120px;
+}
+
+
+/* --- Fix for Sticky Navbar Height --- */
+
+/* 1. Remove extra space at the bottom of the header bar */
+.lgx-header .menu-onscroll {
+    padding-bottom: 0 !important; 
+}
+
+/* 2. Reduce the vertical padding of the menu links (Default is typically around 30px) */
+.lgx-header .menu-onscroll .lgx-navbar .lgx-nav li a {
+    padding-top: 15px !important;    /* Adjust this number to change text vertical position */
+    padding-bottom: 15px !important; /* Adjust this number to change overall bar height */
+}
+
+/* 3. Reduce the massive padding around the logo image */
+/* The default CSS had 1.6rem top and 2.6rem bottom padding which made it very tall */
+.lgx-header .menu-onscroll .lgx-navbar .lgx-logo-fixed a img {
+    padding-top: 5px !important;
+    padding-bottom: 5px !important;
+    max-width: 90px !important; /* Optional: Restrict width if the logo keeps the bar tall */
 }
