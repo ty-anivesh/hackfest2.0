@@ -1,0 +1,877 @@
+I'm moving the Extra files not needed in a different folder to keep the website light
+
+1. From Assets (Themes, Past Sponsors and Speakers) --> Old Edition/ photos
+2. From Sponsors/5.0 --> Old Edition/ photos
+
+
+
+
+
+
+<!-- 
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/saurav.jpeg" width="90%">
+                            <h2>Saurav Kumar</h2>
+                            <h5>Graphics Head</h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/its-muskan-goyal/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/Muskan.jpeg" width="90%">
+                            <h2>Jiya Rao</h2>
+                            <h5>Advisory</h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/its-muskan-goyal/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/Muskan.jpeg" width="90%">
+                            <h2>Akshat</h2>
+                            <h5>Content Head</h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/its-muskan-goyal/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/Muskan.jpeg" width="90%">
+                            <h2>Sanchit</h2>
+                            <h5>Advisory</h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/its-muskan-goyal/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/Muskan.jpeg" width="90%">
+                            <h2>Lakshay</h2>
+                            <h5>Advisory</h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/its-muskan-goyal/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div> -->
+
+                    <!-- Mentor Title shift that on Left -->
+                    <!-- <div class="section_title text-left">
+                        <h5 class="title-dark clr-blue" data-aos="fade-right" data-aos-duration="1000"
+                        data-aos-anchor-placement="top-bottom" style="text-align: left;">
+                            Mentor
+                        </h5>
+                    </div> -->
+
+
+
+                    <!-- <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/shymal.png" width="90%">
+                            <h2>Shyaamal Tripathi </h2>
+                            <h5> Advisor </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/shyaamal-tripathi-a389051b3/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+                
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/harit.png" width="90%">
+                            <h2>Harit Saini </h2>
+                            <h5> Advisor </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/sainiharit/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/rishabh.png" width="90%">
+                            <h2>Rishabh Sharma </h2>
+                            <h5> Advisor </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/therishabhsh/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/anmol.png" width="90%">
+                            <h2>Anmol Wassan </h2>
+                            <h5> Advisor </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/anmolwassan/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/sajal.png" width="90%">
+                            <h2>Sajal Bansal</h2>
+                            <h5> Advisor </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/sajalban5al/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/aysuhchabra.jpg" width="90%">
+                            <h2>Ayush Chhabra</h2>
+                            <h5> Advisor </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/chhabraayush/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/utkarsh.png" width="90%">
+                            <h2>Utkarsh Singh</h2>
+                            <h5> Advisor </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/utkarsh1999/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/ayushkumar.png" width="90%">
+                            <h2>Ayush kumar</h2>
+                            <h5>GitHub Campus Expert</h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/ayush-kumar-984443191/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/priyanshiraj.png" width="90%">
+                            <h2>Priyanshi Rai </h2>
+                            <h5> GitHub Campus Expert </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/prai/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div> -->
+
+
+
+<!-- Mentor Title shift that on Left -->
+                    <!-- <div class="section_title text-left">
+                        <h5 class="title-dark clr-blue" data-aos="fade-right" data-aos-duration="1000"
+                        data-aos-anchor-placement="top-bottom" style="text-align: left;">
+                            Mentor
+                        </h5>
+                    </div>
+
+   
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/mentors/vaibhav.jpeg" width="90%">
+                            <h2>Vaibhav Srivastava </h2>
+                            <h5> Advisor </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/vaibhav-srivastava-8673591ba/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+                   
+                
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/mentors/saksham.jpeg" width="90%">
+                            <h2>Saksham Duhan</h2>
+                            <h5> Advisor </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/saksham-duhan-48a536229/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/mentors/shy.jpeg" width="90%">
+                            <h2>Shyaamal Tripathi </h2>
+                            <h5> Advisor </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/shyaamal-tripathi-a389051b3/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/mentors/rishabh.jpeg" width="90%">
+                            <h2>Rishabh </h2>
+                            <h5> Advisor </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/therishabhsh/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div> 
+
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/mentors/anmol.jpeg" width="90%">
+                            <h2>Anmol</h2>
+                            <h5> Advisor </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/shyaamal-tripathi-a389051b3/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+                
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/mentors/sajal.jpeg" width="90%">
+                            <h2>Sajal </h2>
+                            <h5> Advisor </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/shyaamal-tripathi-a389051b3/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+                    
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/mentors/harut.jpeg" width="90%">
+                            <h2>Harit </h2>
+                            <h5> Advisor </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/shyaamal-tripathi-a389051b3/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/mentors/utkarsh.jpeg" width="90%">
+                            <h2>Utkarsh Singh </h2>
+                            <h5> Advisor </h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/utkarsh1999/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+
+
+Here is the CSS for teams
+
+/* Here it ends */
+
+/* 
+#teams {
+    background-color: #1f2631;
+    background-color: #040709;
+    background-image: url('../img/new_assets/mtt_bg.png'); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+
+#teams img {
+    margin: 5px;
+    border-radius: 2px;
+}
+
+
+.team-box {
+    background-color: #faf4f0;
+    margin: 2rem;
+    padding-top: 1rem;
+    padding-left: 0.7rem;
+    padding-right: 0.7rem;
+    padding-bottom: 0.4rem;
+    width: 90%;
+    margin-bottom: 8rem;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px #888;
+}
+
+.team-box h2 {
+    font-size: 2.25rem;
+    font-weight: 600;
+    line-height: 2.5rem;
+}
+
+.team-box h5 {
+    font-size: 1.8rem;
+}
+
+.team-box h6 {
+    font-size: 2.5rem;
+    cursor: pointer;
+} */
+
+
+
+Here is the previous MTT section HTML
+
+
+
+    <!-- <section id="teams" class="pb100 pt100">
+        <div class=container>
+            <div class="section_title">
+                <h3 class="title-dark clr-blue" data-aos="fade-right" data-aos-duration="1000"
+                    data-aos-anchor-placement="top-bottom">
+                    Meet The Crew
+                </h3>
+            </div>
+        
+            <div class="row justify-content-center">
+                <center>
+                    <div class="col-md-3">
+                        <div class="team-box">
+                            <img src="assets/img/team/damia.jpg" width="90%">
+                            <h2>Damia Sharma</h2>
+                            <h5>President</h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/damia-sharma-6695311ab/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="team-box">
+                            <img src="assets/img/team/nancy.jpeg" width="90%">
+                            <h2>Nancy Garg</h2>
+                            <h5>Vice President</h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/nancy-g-083864210/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/sumrath.jpg" width="90%">
+                            <h2>Sumrath</h2>
+                            <h5>Coordinator</h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/sumrath-36b42327b/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/Muskan.jpeg" width="90%">
+                            <h2>Muskan Goyal</h2>
+                            <h5>Tech Head</h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/its-muskan-goyal/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3"></div>
+                        <div class="team-box"> <img src="assets/img/team/saurav.jpeg" width="90%">
+                            <h2>Saurav Kumar</h2>
+                            <h5>Graphics Head</h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/its-muskan-goyal/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/jiya.jpg" width="90%">
+                            <h2>Jiya Rao</h2>
+                            <h5>Advisory</h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/its-muskan-goyal/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/akshat.png" width="90%">
+                            <h2>Akshat</h2>
+                            <h5>Content Head</h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/its-muskan-goyal/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/Sanchit.jpg" width="90%">
+                            <h2>Sanchit</h2>
+                            <h5>Advisory</h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/its-muskan-goyal/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div>
+
+                    <div class="col-md-3">
+                        <div class="team-box"> <img src="assets/img/team/Lakshay.jpg" width="90%">
+                            <h2>Lakshay</h2>
+                            <h5>Advisory</h5>
+                            <h6>
+                                <a href="https://www.linkedin.com/in/its-muskan-goyal/" target="_blank">
+                                    <i class="fab fa-linkedin" aria-hidden=true></i>
+                                </a>
+                            </h6>
+                        </div>
+                    </div> 
+
+                </center>
+            </div>
+        </div>
+
+    </div>
+    </section>
+
+
+
+
+https://www.linkedin.com/in/shyaamal-tripathi-a389051b3/
+Shyaamal Tripathi
+
+https://www.linkedin.com/in/anmolwassan/
+Anmol Wassan
+
+https://www.linkedin.com/in/sajalban5al/
+Sajal Bansal
+ 
+https://www.linkedin.com/in/sainiharit/
+Harit Saini
+
+https://www.linkedin.com/in/utkarsh1999/
+Utkarsh Singh
+
+https://www.linkedin.com/in/therishabhsh/
+Rishabh Sharma 
+
+https://www.linkedin.com/in/vaibhav-srivastava-8673591ba/
+Vaibhav Srivastava
+
+https://www.linkedin.com/in/saksham-duhan-48a536229/
+Saksham Duhan
+
+
+
+
+
+
+
+
+
+
+
+
+        <section class="pb100 pt100" id=about>
+            <div class="about-container">
+                <!-- <div class="left-container"> -->
+                    <div class=container>
+                        <div class=section_title>
+                            <h3 class="title-dark" data-aos="fade-right" data-aos-duration="1000" data-aos-anchor-placement="top-bottom"> About the event</h3>
+                        </div>
+                        <div id="about-div">
+                            <div class="row">
+                                <div class="col-12" data-aos="fade-up" data-aos-duration="1000"
+                                    data-aos-anchor-placement="top-bottom">
+                                    <p>Embarking on the next chapter of an exhilarating legacy, we present to you
+                                        <b><i>hackCBS
+                                                7.0!</i></b>
+                                        It is the ultimate blend of coders, innovators, designers and tech-connoisseurs
+                                        which is a
+                                        celebration of expertise and creativity that promises an unparalleled
+                                        experience.
+                                        <br />
+                                        hackCBS 7.0 provides an excellent opportunity for hackathon enthusiasts to learn
+                                        new skills
+                                        and
+                                        network with industry leaders & experts. Get ready to embark on an exciting
+                                        journey,
+                                        overcoming
+                                        challenges using innovative solutions and much more!
+
+                                    </p>
+                                    <br />
+                                </div>
+                                <div class="col-10" data-aos="fade-up" data-aos-duration="1000"
+                                    data-aos-anchor-placement="top-bottom">
+
+                                    <p>
+                                        <!-- With over <i><b>8600+</b></i> registrations across <i><b>20 countries</b></i> over the
+                            years, -->
+                                        The event is a <b><i>mega-fest of hackers</i></b> racing against time for the
+                                        intensive
+                                        development of a hack. But this time it's going to be different, in this
+                                        edition of
+                                        hackCBS,
+                                        we are about to embark on an extraordinary journey, where grandeur meets
+                                        innovation, and the
+                                        boundaries of what is possible in hacking will be redefined.
+
+                                    </p>
+                                    <br />
+                                </div>
+                                <div class="col-md-6">
+                                    <p data-aos="fade-right" data-aos-duration="1000"
+                                        data-aos-anchor-placement="bottom-bottom">
+                                        <b>Venue</b> <br>[In-Person] - Shaheed Sukhdev College of Business Studies
+                                    </p>
+                                </div>
+                                <div class="col-md-6">
+                                    <p data-aos="fade-right" data-aos-duration="1000"
+                                        data-aos-anchor-placement="bottom-bottom"
+                                        style="padding-left: 0px; @media (min-width: 1000px) { padding-left: 20px; }">
+                                        <b>Dates</b> <br> 9-10 November 2024
+                                    </p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                    <br> <br>
+                    <div class="container stat_icons">
+                        <div class="row clr-dark">
+                            <div class="col-lg-2 col-xs-4 stats">
+                                <!-- <div class="stat-icons"><i class="fas fa-user" aria-hidden="true"></i></div> <br> -->
+                                <lord-icon part="box" class="regs" src="https://cdn.lordicon.com/dxjqoygy.json"
+                                    trigger="loop" colors="primary:#45b6b6,secondary:#45b6b6"></lord-icon>
+                                <div class="counting" data-count="15873">0</div>
+                                <h5 class="clr-dark">Registrations</h5>
+                            </div>
+
+                            <div class="col-lg-2 col-xs-4 stats">
+                                <div class="stat">
+                                    <div class="stat-image">
+                                        <lord-icon part="box" class="hacker"
+                                            src="https://cdn.lordicon.com/nobciafz.json" trigger="loop"
+                                            colors="primary:#45b6b6,secondary:#45b6b6"></lord-icon>
+                                        <div class="counting" data-count="4479">0</div>
+                                    </div>
+                                </div>
+                                <h5 class="clr-dark">Attendees</h5>
+                            </div>
+
+                            <div class="col-lg-2 col-xs-4 stats">
+                                <lord-icon part="box" class="college" src="https://cdn.lordicon.com/jjjmlddk.json"
+                                    trigger="loop" colors="primary:#45b6b6,secondary:#45b6b6"></lord-icon>
+                                <div class="counting" data-count="718">0</div>
+                                <h5 class="clr-dark">Colleges</h5>
+                            </div>
+
+                            <div class="col-lg-2 col-xs-4 stats">
+                                <lord-icon src="https://cdn.lordicon.com/zzcjjxew.json" trigger="loop"
+                                    colors="primary:#45b6b6,secondary:#45b6b6"></lord-icon>
+                                <div class="counting" data-count="440">0</div>
+                                <h5 class="clr-dark">Cities</h5>
+                            </div>
+
+                            <div class="col-lg-2 col-xs-4 stats">
+                                <lord-icon part="box" class="country" src="https://cdn.lordicon.com/gqzfzudq.json"
+                                    trigger="loop" colors="primary:#45b6b6,secondary:#45b6b6"></lord-icon>
+                                <div class="counting" data-count="25">0</div>
+                                <h5 class="clr-dark">Countries</h5>
+                            </div>
+
+                            <div class="col-lg-2 col-xs-4 stats">
+                                <lord-icon src="https://cdn.lordicon.com/tdxypxgp.json" trigger="loop"
+                                    colors="primary:#45b6b6,secondary:#45b6b6"></lord-icon>
+                                <div class="counting" data-count="24500">0</div>
+                                <h5 class="clr-dark">YouTube Views</h5>
+                            </div>
+                        </div>
+                    </div>
+                <!-- </div> -->
+                <!-- <div class="right-container">
+                    <img src="assets/img/new_assets/ship.png" alt="Event Image">
+                </div> -->
+            </div>
+        </section>
+
+
+<!-- <div class="hidden-md hidden-lg hidden-xl col-xs-12 col-sm-12" style="padding: 0px;"
+                                    data-aos="zoom-in-up" data-aos-duration="1000"
+                                    data-aos-anchor-placement="top-bottom">
+                                    <div class=lgx-gallery-single>
+                                        <figure> <img src="assets/img/themes/openInnovation.svg" alt="Open Innovation"
+                                                loading=lazy>
+                                            <figcaption class=lgx-figcaption>
+                                                <div class=lgx-hover-link>
+                                                    <div class=lgx-vertical>
+                                                        <p class=theme-input>Open <br>Innovation</p>
+                                                    </div>
+                                                </div>
+                                            </figcaption>
+                                        </figure>
+                                    </div> 
+                                </div> -->
+                        </div>
+                    </div>
+                </div> <br> <br>
+                <center>
+                    <div class="row">
+                        <!-- <div class="col-md-12" data-aos="fade-up" data-aos-duration="1000"
+                        
+                            data-aos-anchor-placement="top-bottom"> <a data-toggle="modal" data-target="#ps"> <button
+                                    class="btn-info text-uppercase sample-problem-btn">Sample Problem Statements</button> </a></div> -->
+
+
+
+
+
+
+
+css glimpse
+
+
+
+.glimpse-title {
+    /* font-family: Montserrat, sans-serif; */
+    line-height: 1.2;
+    text-transform: uppercase;
+    padding: 10px 0;
+    font-size: 36px;
+}
+
+.previous_ed {
+    margin-top: 1rem;
+}
+
+.glimpses_of_events {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* .glimpses_of_events_heading h2{
+    font-weight: 700;
+    margin-bottom: 1rem;
+} */
+
+.glimpses_of_events .addBack {
+    transform: rotateY(180deg);
+    transition: all 0.6s ease-in-out;
+    transform-style: preserve-3d;
+}
+
+.glimpses_of_events .removeBack {
+    transform: rotateY(-180deg);
+    transition: all 0.6s ease-in-out;
+    transform-style: preserve-3d;
+}
+
+.row1,
+.row2,
+.row3,
+.row4,
+.row5 {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+/* .row3_last-card {
+    margin-top: 3rem !important;
+} */
+
+.col-lg-2 {
+    padding-left: 0.30rem;
+
+    margin-top: 0.10rem;
+    margin-bottom: 0.10rem;
+}
+
+/* .glimps_RowOnesecondCard,
+.glimps_RowOneFourthCard {
+    margin-bottom: 3rem !important;
+} */
+
+/* .glimps_RowTwosecondCard,
+.glimps_RowTwoFourthCard {
+    position: absolute;
+    margin-top: 90px;
+    padding-right: 0.60rem !important;
+    padding-left: 0.60rem !important;
+} */
+
+
+.glimpse_flip-card {
+    background-color: transparent;
+    /* width: 100%; */
+    height: 340px;
+    perspective: 1000px;
+    border: 0.2rem outset pink
+}
+
+.glimpse_flip-card-inner {
+    position: relative;
+    width: 50%;
+    height: 100%;
+    text-align: center;
+    transition: 0.2s ease,
+        padding 0.8s linear;
+    transform-style: preserve-3d;
+    /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); */
+}
+
+.glimpse_flip-card-front,
+.glimpse_flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+}
+
+.glimpse_flip-card-front img {
+    width: 100%;
+    height: 100%;
+    /* border-radius: 18px; */
+    object-fit: cover;
+}
+
+.glimpse_flip-card-back img {
+    width: 100%;
+    height: 100%;
+    border-radius: 18px;
+    object-fit: cover;
+}
+
+.glimpse_flip-card-back {
+
+    transform: rotateY(180deg);
+}
+
+.glimpse_flip-card {
+    width: 18rem;
+    /* Adjust card width as needed */
+    height: 20rem;
+    /* Adjust card height as needed */
+    /* margin: 5px; */
+    perspective: 1000px;
+}
+
+.glimpse_flip-card-inner {
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.5s;
+}
+
+.glimpse_flip-card:hover .glimpse_flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.glimpses_container {
+    display: flex;
+    /* grid-auto-flow: dense; */
+    align-items: center;
+}
+
+@media screen and (max-width: 550px) {
+    .glimpses_container {
+        /* width: 100%; */
+        grid-template-rows: auto;
+        grid-template-columns: repeat(3, 1fr);
+        align-items: center;
+        grid-column-gap: 1rem;
+    }
+
+    .row2,
+    .row4 {
+        display: none;
+    }
+
+    .glimpse_flip-card {
+        height: 13rem;
+        width: 14rem;
+    }
+
+    /* .main{
+    width: 31rem;
+   } */
+}
+
+@media screen and (min-width: 550px) and (max-width: 768px) {
+    .glimpses_container {
+        grid-template-columns: repeat(5, 1fr);
+    }
+
+    .glimpse_flip-card {
+        height: 18rem;
+        width: 15rem;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 990px) {
+    .glimpses_container {
+        grid-template-columns: repeat(5, 1fr);
+
+    }
+
+    .glimpse_flip-card {
+        height: 18rem;
+        width: 15rem;
+    }
+
+
+}
+
+/* .lgx-photo-gallery-black .lgx-inner {
+    background: rgba(78, 98, 129, 0.93);
+} */
+/* #glimpses .pb100 {
+    padding-left: 0;
+    padding-right: 0;
+} */
+.section_title h5 {
+    color: white;
+}
+
+.text-left {
+    text-align: left;
+}
